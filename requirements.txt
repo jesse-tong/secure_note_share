@@ -1,0 +1,12 @@
+flask
+sqlalchemy
+flask-sqlalchemy
+flask-login 
+cryptography
+PyJWT
+python-dateutil
+requests
+apscheduler
+keyring
+Faker
+secretstorage; sys_platform == 'linux'
